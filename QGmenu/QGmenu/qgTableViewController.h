@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface qgTableViewController : UITableViewController
+
 @property (nonatomic, strong) NSDictionary *dataDic;
 @end

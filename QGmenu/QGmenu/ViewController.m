@@ -52,6 +52,9 @@
     
 }
 
+
+
+
 -(UIModalPresentationStyle)adaptivePresentationStyleForPresentationController:(UIPresentationController *)controller
 {
     //设置iphone也可以使用

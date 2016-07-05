@@ -13,6 +13,8 @@
 @property (nonatomic, strong) NSArray *images;
 @end
 
+
+
 @implementation qgTableViewController
 - (NSArray *)titles {
     if (!_titles) {
